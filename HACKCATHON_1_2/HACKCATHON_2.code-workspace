@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../HACKCATHON_1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HACKCATHON_2"
+	}
+}
